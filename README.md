@@ -20,5 +20,5 @@ I found online shop https://www.wasdkeyboards.com that has keycaps designer and 
 
 I'm Czech and I like typing on Czech keyboard so I created keycaps for the Czech layout and here is my customised template that I uploaded during the order:
 
-
+![Keycaps](./keycaps.svg)
 
