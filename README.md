@@ -22,3 +22,4 @@ I'm Czech and I like typing on Czech keyboard so I created keycaps for the Czech
 
 ![Keycaps](./keycaps.svg)
 
+Template has 105 although I ordered 88 keys keyboard.
