@@ -1,7 +1,7 @@
 # Filco Convertible 2 Tenkeyless with custom Czech keycap set
 This repo contains some information about my favorite keyboard that I bought on spring 2019.
 After doing some research I found the Filco to be one of the best keyboards manufacturer in terms of build quality.
-The keyboard that I finally decided to buy has the following specification:
+The keyboard that I finally decided to buy has following specification:
 
 |     |     |
 | --- | --- |
